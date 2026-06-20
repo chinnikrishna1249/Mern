@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Contact - Vandhana Degree College</title>
+<title>Contact - Krishna Degree College</title>
 
 <style>
 *{
@@ -167,7 +167,7 @@ font-size:32px;
 
 <nav>
 
-<div class="logo">Vadhana Degree College</div>
+<div class="logo">Krishna Degree College</div>
 
 <ul>
 <li><a href="#">Home</a></li>
@@ -184,7 +184,7 @@ font-size:32px;
 
 <section class="hero">
 
-<h1>Welcome to Vadhana Degree College</h1>
+<h1>Welcome to Krishna Degree College</h1>
 
 <p>Admissions, Student Support and General Enquiries</p>
 
@@ -218,14 +218,14 @@ font-size:32px;
 <h3>Contact Information</h3>
 
 <p><b>Address:</b><br>
-Vadhana Degree College<br>
-odisha, andhra pradesh<br>
+Krishna Degree College<br>
+Ramaraopeta, Kakinada<br>
 Andhra Pradesh - 533004
 </p>
 
-<p><b>Phone:</b> +91 7981677241</p>
+<p><b>Phone:</b> +91 884 223 4567</p>
 
-<p><b>Email:</b> info@vadhanadegreecollege.edu.in</p>
+<p><b>Email:</b> info@krishnadegreecollege.edu.in</p>
 
 <p><b>Office Hours:</b><br>
 Monday - Saturday<br>
@@ -270,13 +270,13 @@ Monday - Saturday<br>
 
 </div>
 
-<iframe src="https://maps.app.goo.gl/FRNYAHPPmHnSo4wR8?g_st=ac"></iframe>
+<iframe src="https://www.google.com/maps?q=Kakinada,Andhra+Pradesh&output=embed"></iframe>
 
 </div>
 
 <footer>
 
-<p>©️ 2026 Vadhana Degree College</p>
+<p>©️ 2026 Krishna Degree College</p>
 
 <p>Designed for Student Management Demo</p>
 
